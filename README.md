@@ -1,5 +1,9 @@
 # Jimeng Agent
 
+> <span style="color:red;font-size:18px;"><b>⚠️ 个人自用项目，请勿直接使用</b></span>
+>
+> <span style="color:red;">本 Skill 根据我个人项目需求定制，纯粹自用，不保证通用兼容性，不提供任何技术支持。</span>
+
 即梦抖音竖屏短视频脚本生成器 — 通用 Agent Skill，根据主题生成 9:16 竖屏全维度分镜提示词 + 音效建议，可直接导入即梦 seedance 2.0 批量生成视频。
 
 ## 使用方式
